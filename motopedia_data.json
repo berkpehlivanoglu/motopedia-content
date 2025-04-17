@@ -9,11 +9,11 @@
     "maximumTorque": "113Nm",
     "kerbWeight": "201kg",
     "transmission": "Manuel 6-speed",
-    "prices": [
+    "prices": {
       "TR": "430.000₺",
       "EU": "12.499€",
       "US": "$28.999"
-    ],
+    },
     "youtubeIds": [
       "iPKptrZ9BBw",
       "V-uZCL-dw-Q",
