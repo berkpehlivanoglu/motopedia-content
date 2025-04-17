@@ -9,6 +9,7 @@
     "maximumTorque": "113Nm",
     "kerbWeight": "201kg",
     "transmission": "Manuel 6-speed",
+    "fuelCapacity": "16.5L",
     "prices": {
       "TR": "430.000₺",
       "EU": "12.499€",
