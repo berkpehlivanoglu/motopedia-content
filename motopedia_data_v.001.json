@@ -1,0 +1,176 @@
+[
+  {
+    "id": "honda-cb500x",
+    "brand": "Honda",
+    "model": "CB500X",
+    "category": "Adventure",
+    "description": "The 2025 Honda CB500X blends everyday practicality with long-distance adventure comfort, offering improved wind protection and smooth performance.",
+    "youtubeIds": [
+      "V1Z8w7k9QxA",
+      "H3K9Z8x7Y2M"
+    ]
+  },
+  {
+    "id": "honda-cb500f",
+    "brand": "Honda",
+    "model": "CB500F",
+    "category": "Naked",
+    "description": "For 2025, the Honda CB500F delivers a sharp naked styling with agile handling and a smooth twin-cylinder engine for everyday riding.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cbr500r",
+    "brand": "Honda",
+    "model": "CBR500R",
+    "category": "Sport",
+    "description": "The 2025 CBR500R brings a sporty look and responsive engine, offering an accessible entry point to the supersport world.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-nc750x",
+    "brand": "Honda",
+    "model": "NC750X",
+    "category": "Adventure",
+    "description": "The NC750X in 2025 continues to offer practical features like storage in the tank and DCT gearbox, ideal for commuters and adventurers alike.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-crf300l",
+    "brand": "Honda",
+    "model": "CRF300L",
+    "category": "Dual Sport",
+    "description": "Lightweight and capable, the 2025 Honda CRF300L is a favorite for both beginners and experienced off-road riders looking for versatility.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-crf300-rally",
+    "brand": "Honda",
+    "model": "CRF300 Rally",
+    "category": "Dual Sport",
+    "description": "The 2025 CRF300 Rally blends long-range comfort with off-road performance, perfect for adventure seekers.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-africa-twin",
+    "brand": "Honda",
+    "model": "Africa Twin",
+    "category": "Adventure",
+    "description": "With updates for 2025, the Africa Twin remains a rugged, powerful machine ready for any terrain, now with improved electronics and suspension.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-rebel-500",
+    "brand": "Honda",
+    "model": "Rebel 500",
+    "category": "Cruiser",
+    "description": "The Rebel 500 remains a favorite entry-level cruiser for 2025, featuring a low seat height, modern looks, and relaxed handling.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-rebel-1100",
+    "brand": "Honda",
+    "model": "Rebel 1100",
+    "category": "Cruiser",
+    "description": "The 2025 Rebel 1100 blends cruiser style with performance, powered by a torquey twin-cylinder engine and offering DCT for added convenience.",
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cbr650r",
+    "brand": "Honda",
+    "model": "CBR650R",
+    "category": "Sport",
+    "description": "A sleek middleweight sportbike, the 2025 CBR650R delivers an exhilarating ride with inline-four performance and refined handling.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-tenere-700",
+    "brand": "Yamaha",
+    "model": "Tenere 700",
+    "category": "Adventure",
+    "description": "The 2025 Yamaha Tenere 700 is a midweight adventure motorcycle built for versatility, now refined with better suspension for all-road capability.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-mt-07",
+    "brand": "Yamaha",
+    "model": "MT-07",
+    "category": "Naked",
+    "description": "Yamaha\u2019s best-selling naked bike, the 2025 MT-07 offers thrilling torque, updated styling, and nimble performance for riders of all levels.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-mt-09",
+    "brand": "Yamaha",
+    "model": "MT-09",
+    "category": "Naked",
+    "description": "Refined for 2025, the Yamaha MT-09 delivers aggressive power and cutting-edge electronics in a sleek, lightweight chassis.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-mt-03",
+    "brand": "Yamaha",
+    "model": "MT-03",
+    "category": "Naked",
+    "description": "The 2025 MT-03 is an agile, approachable entry-level streetfighter designed for urban riders and learners.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-r7",
+    "brand": "Yamaha",
+    "model": "R7",
+    "category": "Sport",
+    "description": "The Yamaha R7 for 2025 combines supersport styling with street-friendly ergonomics and a punchy CP2 engine.",
+    "youtubeIds": [
+      "F4WZ8ycxcD0",
+      "k1JYYRfjO0U"
+    ]
+  },
+  {
+    "id": "yamaha-r3",
+    "brand": "Yamaha",
+    "model": "R3",
+    "category": "Sport",
+    "description": "Perfect for new riders, the 2025 Yamaha R3 balances sharp looks with lightweight handling and confidence-inspiring performance.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-tracer-9-gt",
+    "brand": "Yamaha",
+    "model": "Tracer 9 GT",
+    "category": "Sport Touring",
+    "description": "A tech-packed touring machine, the 2025 Tracer 9 GT offers triple-cylinder power, semi-active suspension, and all-day comfort.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-xsr700",
+    "brand": "Yamaha",
+    "model": "XSR700",
+    "category": "Retro",
+    "description": "The 2025 XSR700 blends retro charm with modern performance, offering CP2 power and minimalist design.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-xsr900",
+    "brand": "Yamaha",
+    "model": "XSR900",
+    "category": "Retro",
+    "description": "With heritage styling and cutting-edge electronics, the 2025 XSR900 is a performance throwback for the modern rider.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-super-tenere-es",
+    "brand": "Yamaha",
+    "model": "Super Tenere ES",
+    "category": "Adventure",
+    "description": "The 2025 Super Tenere ES continues to impress with shaft drive, advanced electronics, and long-distance comfort.",
+    "youtubeIds": []
+  },
+  {
+    "id": "yamaha-bolt-r-spec",
+    "brand": "Yamaha",
+    "model": "Bolt R-Spec",
+    "category": "Cruiser",
+    "description": "Yamaha's 2025 Bolt R-Spec is a compact cruiser with timeless styling, torquey V-twin performance, and urban appeal.",
+    "youtubeIds": []
+  }
+]
