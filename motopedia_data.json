@@ -1,0 +1,19 @@
+[
+    {
+        "id": "yamaha-tenere-700",
+        "brand": "Yamaha",
+        "model": "Tenere 700",
+        "category": "Adventure",
+        "description": "The Yamaha Tenere 700 is a lightweight, versatile adventure bike built for off-road exploration and on-road travel. With its torquey CP2 engine and rally-style design, it's ideal for riders seeking freedom and durability.",
+        "youtubeIds": ["-g8mhf-XSwE",
+        "WdYLll109IE"]
+    },
+    {
+        "id": "honda-cb500x",
+        "brand": "Honda",
+        "model": "CB500X",
+        "category": "Adventure",
+        "description": "The Honda CB500X combines practicality with adventure styling. It offers a smooth twin-cylinder engine, comfortable ergonomics, and a reliable chassis for daily rides and weekend trips.",
+        "youtubeIds": ["INSERT_YOUTUBE_ID_HERE"]
+    }
+]
