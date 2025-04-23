@@ -1,4 +1,148 @@
 [
+    {
+    "id": "crf1100l-africa-twin-adventure-sports-es-2025",
+    "brand": "Honda",
+    "model": "CRF1100L Africa Twin Adventure Sports ES 2025",
+    "category": "Adventure",
+    "engine": "1,083cc Liquid-Cooled Unicam® Parallel Twin",
+    "maximumPower": "75kW (101hp) @ 7,500rpm",
+    "maximumTorque": "105Nm @ 6,250rpm",
+    "kerbWeight": "248kg",
+    "transmission": "6-speed Manual or DCT",
+    "fuelCapacity": "24.8L",
+    "prices": {
+      "UK": "£17,599",
+      "EU": "€20,499",
+      "US": "$18,399"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "crf1100l-africa-twin-2025",
+    "brand": "Honda",
+    "model": "CRF1100L Africa Twin 2025",
+    "category": "Adventure",
+    "engine": "1,083cc Liquid-Cooled Unicam® Parallel Twin",
+    "maximumPower": "75kW (101hp) @ 7,500rpm",
+    "maximumTorque": "105Nm @ 6,250rpm",
+    "kerbWeight": "226kg",
+    "transmission": "6-speed Manual or DCT",
+    "fuelCapacity": "18.8L",
+    "prices": {
+      "UK": "£14,999",
+      "EU": "€18,499",
+      "US": "$15,499"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "xl750-transalp-2025",
+    "brand": "Honda",
+    "model": "XL750 Transalp 2025",
+    "category": "Adventure",
+    "engine": "755cc Liquid-Cooled Parallel Twin",
+    "maximumPower": "67.5kW (91hp) @ 9,500rpm",
+    "maximumTorque": "75Nm @ 7,250rpm",
+    "kerbWeight": "208kg",
+    "transmission": "6-speed Manual",
+    "fuelCapacity": "16.9L",
+    "prices": {
+      "UK": "£9,499",
+      "EU": "€11,499",
+      "US": "$10,499"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "nc750x-2025",
+    "brand": "Honda",
+    "model": "NC750X 2025",
+    "category": "Adventure",
+    "engine": "745cc Liquid-Cooled Parallel Twin",
+    "maximumPower": "43.1kW (58hp) @ 6,750rpm",
+    "maximumTorque": "69Nm @ 4,750rpm",
+    "kerbWeight": "224kg",
+    "transmission": "6-speed Manual or DCT",
+    "fuelCapacity": "14.1L",
+    "prices": {
+      "UK": "£7,999",
+      "EU": "€9,499",
+      "US": "$9,499"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "x-adv-2025",
+    "brand": "Honda",
+    "model": "X-ADV 2025",
+    "category": "Adventure Scooter",
+    "engine": "745cc Liquid-Cooled Parallel Twin",
+    "maximumPower": "43.1kW (58hp) @ 6,750rpm",
+    "maximumTorque": "69Nm @ 4,750rpm",
+    "kerbWeight": "236kg",
+    "transmission": "6-speed DCT",
+    "fuelCapacity": "13.2L",
+    "prices": {
+      "UK": "£10,999",
+      "EU": "€12,999",
+      "US": "$11,499"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "nx500-2025",
+    "brand": "Honda",
+    "model": "NX500 2025",
+    "category": "Adventure",
+    "engine": "471cc Liquid-Cooled Parallel Twin",
+    "maximumPower": "35kW (47hp) @ 8,600rpm",
+    "maximumTorque": "43Nm @ 6,500rpm",
+    "kerbWeight": "196kg",
+    "transmission": "6-speed Manual",
+    "fuelCapacity": "17.7L",
+    "prices": {
+      "UK": "£6,499",
+      "EU": "€7,999",
+      "US": "$7,399"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "crf300-rally-2025",
+    "brand": "Honda",
+    "model": "CRF300 Rally 2025",
+    "category": "Dual Sport",
+    "engine": "286cc Liquid-Cooled Single Cylinder",
+    "maximumPower": "20.1kW (27hp) @ 8,500rpm",
+    "maximumTorque": "26.6Nm @ 6,500rpm",
+    "kerbWeight": "153kg",
+    "transmission": "6-speed Manual",
+    "fuelCapacity": "12.8L",
+    "prices": {
+      "UK": "£6,499",
+      "EU": "€7,499",
+      "US": "$6,499"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "crf300l-2025",
+    "brand": "Honda",
+    "model": "CRF300L 2025",
+    "category": "Dual Sport",
+    "engine": "286cc Liquid-Cooled Single Cylinder",
+    "maximumPower": "20.1kW (27hp) @ 8,500rpm",
+    "maximumTorque": "26.6Nm @ 6,500rpm",
+    "kerbWeight": "142kg",
+    "transmission": "6-speed Manual",
+    "fuelCapacity": "7.8L",
+    "prices": {
+      "UK": "£5,749",
+      "EU": "€6,499",
+      "US": "$5,749"
+    },
+    "youtubeIds": []
+  },
   {
     "id": "honda-cbr1000rr-r-fireblade",
     "brand": "Honda",
