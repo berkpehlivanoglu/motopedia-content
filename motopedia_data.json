@@ -20,5 +20,27 @@
       "V-uZCL-dw-Q",
       "WZp2S6X8aGM"
     ]
+  },
+  {
+    "id": "honda-cbr650r",
+    "brand": "Honda",
+    "model": "CBR650R",
+    "category": "SuperSport",
+    "engine": "649cc Inline Four-Cylinder Engine",
+    "maximumPower": "70kW (94hp)",
+    "maximumTorque": "63Nm",
+    "kerbWeight": "208kg",
+    "transmission": "Manuel 6-speed",
+    "fuelCapacity": "15.4L",
+    "prices": {
+      "UK": "£8,629",
+      "EU": "9,490€",
+      "US": "$9,899"
+    },
+    "youtubeIds": [
+      "iPKptrZ9BBw",
+      "V-uZCL-dw-Q",
+      "WZp2S6X8aGM"
+    ]
   }
 ]
