@@ -43,15 +43,15 @@
       "ZRFC5QR9PdU"
     ]
   },
-  {
+    {
     "id": "honda-cbr600rr",
     "brand": "Honda",
     "model": "CBR600RR",
     "category": "SuperSport",
-    "engine": "599cc Inline Four-Cylinder Engine",
-    "maximumPower": "119bhp",
-    "maximumTorque": "63Nm",
-    "kerbWeight": "197kg",
+    "engine": "599cc Inline Four-Cylinder, DOHC, Liquid-cooled",
+    "maximumPower": "89.8kW (121hp) @ 14,000rpm",
+    "maximumTorque": "63Nm @ 11,500rpm",
+    "kerbWeight": "194kg",
     "transmission": "Manual 6-speed",
     "fuelCapacity": "18.1L",
     "prices": {
@@ -59,10 +59,298 @@
       "EU": "€12,140",
       "US": "$12,199"
     },
-      "youtubeIds": [
-      "dQw4w9WgXcQ",
-      "eY52Zsg-KVI",
-      "3JZ_D3ELwOQ"
+    "youtubeIds": [
+      "c6gGuYL7LRk",
+      "pcKTh8zXlGY",
+      "klK_Ijel3AA"
     ]
+  },
+  {
+    "id": "honda-cbr500r",
+    "brand": "Honda",
+    "model": "CBR500R",
+    "category": "Sport",
+    "engine": "471cc Parallel Twin, DOHC, Liquid-cooled",
+    "maximumPower": "35kW (47hp)",
+    "maximumTorque": "43Nm",
+    "kerbWeight": "191kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "17.1L",
+    "prices": {
+      "UK": "£6,799",
+      "EU": "€7,190",
+      "US": "$7,299"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cb1000-hornet",
+    "brand": "Honda",
+    "model": "CB1000 Hornet",
+    "category": "Naked",
+    "engine": "999cc Inline Four-Cylinder, DOHC",
+    "maximumPower": "110kW (147hp)",
+    "maximumTorque": "100Nm",
+    "kerbWeight": "212kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "17.1L",
+    "prices": {
+      "UK": "£11,999",
+      "EU": "€12,490",
+      "US": "$12,999"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cb750-hornet",
+    "brand": "Honda",
+    "model": "CB750 Hornet",
+    "category": "Naked",
+    "engine": "755cc Parallel Twin, Unicam",
+    "maximumPower": "67.5kW (90.5hp)",
+    "maximumTorque": "75Nm",
+    "kerbWeight": "190kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "15.2L",
+    "prices": {
+      "UK": "£7,799",
+      "EU": "€8,190",
+      "US": "$8,599"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cb650r",
+    "brand": "Honda",
+    "model": "CB650R",
+    "category": "Naked",
+    "engine": "649cc Inline Four-Cylinder, DOHC",
+    "maximumPower": "70kW (94hp)",
+    "maximumTorque": "63Nm",
+    "kerbWeight": "202kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "15.4L",
+    "prices": {
+      "UK": "£8,399",
+      "EU": "€8,690",
+      "US": "$9,399"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cl500",
+    "brand": "Honda",
+    "model": "CL500",
+    "category": "Scrambler",
+    "engine": "471cc Parallel Twin",
+    "maximumPower": "35kW (47hp)",
+    "maximumTorque": "43Nm",
+    "kerbWeight": "192kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "12L",
+    "prices": {
+      "UK": "£6,199",
+      "EU": "€6,590",
+      "US": "$6,799"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cb500-hornet",
+    "brand": "Honda",
+    "model": "CB500 Hornet",
+    "category": "Naked",
+    "engine": "471cc Parallel Twin",
+    "maximumPower": "35kW (47hp)",
+    "maximumTorque": "43Nm",
+    "kerbWeight": "188kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "17.1L",
+    "prices": {
+      "UK": "£6,299",
+      "EU": "€6,690",
+      "US": "$7,199"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cb300r",
+    "brand": "Honda",
+    "model": "CB300R",
+    "category": "Naked",
+    "engine": "286cc Single-cylinder",
+    "maximumPower": "23kW (31hp)",
+    "maximumTorque": "27Nm",
+    "kerbWeight": "144kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "10L",
+    "prices": {
+      "UK": "£4,999",
+      "EU": "€5,290",
+      "US": "$5,149"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cb125r",
+    "brand": "Honda",
+    "model": "CB125R",
+    "category": "Naked",
+    "engine": "124cc Single-cylinder",
+    "maximumPower": "11kW (15hp)",
+    "maximumTorque": "11.6Nm",
+    "kerbWeight": "130kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "10.1L",
+    "prices": {
+      "UK": "£4,599",
+      "EU": "€4,990",
+      "US": "$4,799"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-gb350s",
+    "brand": "Honda",
+    "model": "GB350S",
+    "category": "Classic",
+    "engine": "348cc Single-cylinder, air-cooled",
+    "maximumPower": "15.5kW (21hp)",
+    "maximumTorque": "29Nm",
+    "kerbWeight": "179kg",
+    "transmission": "Manual 5-speed",
+    "fuelCapacity": "15L",
+    "prices": {
+      "UK": "£5,499",
+      "EU": "€5,790",
+      "US": "$5,799"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-forza-750",
+    "brand": "Honda",
+    "model": "Forza 750",
+    "category": "Maxi Scooter",
+    "engine": "745cc Parallel Twin",
+    "maximumPower": "43kW (57hp)",
+    "maximumTorque": "69Nm",
+    "kerbWeight": "235kg",
+    "transmission": "Automatic DCT",
+    "fuelCapacity": "13.2L",
+    "prices": {
+      "UK": "£10,499",
+      "EU": "€10,990",
+      "US": "$11,299"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-forza-350",
+    "brand": "Honda",
+    "model": "Forza 350",
+    "category": "Scooter",
+    "engine": "330cc Single-cylinder",
+    "maximumPower": "21.5kW (29hp)",
+    "maximumTorque": "31.5Nm",
+    "kerbWeight": "184kg",
+    "transmission": "Automatic",
+    "fuelCapacity": "11.7L",
+    "prices": {
+      "UK": "£5,999",
+      "EU": "€6,190",
+      "US": "$6,399"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-forza-125",
+    "brand": "Honda",
+    "model": "Forza 125",
+    "category": "Scooter",
+    "engine": "124cc Single-cylinder",
+    "maximumPower": "11kW (15hp)",
+    "maximumTorque": "12Nm",
+    "kerbWeight": "161kg",
+    "transmission": "Automatic",
+    "fuelCapacity": "11.5L",
+    "prices": {
+      "UK": "£4,999",
+      "EU": "€5,190",
+      "US": "$5,299"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-adv-350",
+    "brand": "Honda",
+    "model": "ADV 350",
+    "category": "Adventure Scooter",
+    "engine": "330cc Single-cylinder",
+    "maximumPower": "21.5kW (29hp)",
+    "maximumTorque": "31.5Nm",
+    "kerbWeight": "186kg",
+    "transmission": "Automatic",
+    "fuelCapacity": "11.7L",
+    "prices": {
+      "UK": "£6,199",
+      "EU": "€6,490",
+      "US": "$6,799"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-pcx",
+    "brand": "Honda",
+    "model": "PCX",
+    "category": "Urban Scooter",
+    "engine": "157cc Single-cylinder",
+    "maximumPower": "12.5kW (17hp)",
+    "maximumTorque": "15Nm",
+    "kerbWeight": "132kg",
+    "transmission": "Automatic",
+    "fuelCapacity": "8.1L",
+    "prices": {
+      "UK": "£3,999",
+      "EU": "€4,290",
+      "US": "$4,199"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cmx1100-rebel",
+    "brand": "Honda",
+    "model": "CMX1100 Rebel",
+    "category": "Cruiser",
+    "engine": "1084cc Parallel Twin",
+    "maximumPower": "64kW (87hp)",
+    "maximumTorque": "98Nm",
+    "kerbWeight": "223kg",
+    "transmission": "Manual / DCT",
+    "fuelCapacity": "13.6L",
+    "prices": {
+      "UK": "£9,799",
+      "EU": "€10,290",
+      "US": "$9,899"
+    },
+    "youtubeIds": []
+  },
+  {
+    "id": "honda-cmx500-rebel",
+    "brand": "Honda",
+    "model": "CMX500 Rebel",
+    "category": "Cruiser",
+    "engine": "471cc Parallel Twin",
+    "maximumPower": "34kW (46hp)",
+    "maximumTorque": "43Nm",
+    "kerbWeight": "191kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "11.2L",
+    "prices": {
+      "UK": "£6,199",
+      "EU": "€6,490",
+      "US": "$6,799"
+    },
+    "youtubeIds": []
   }
 ]
