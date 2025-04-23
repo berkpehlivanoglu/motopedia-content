@@ -11,9 +11,9 @@
     "transmission": "Manuel 6-speed",
     "fuelCapacity": "16.5L",
     "prices": {
-      "TR": "430.000₺",
-      "EU": "12.499€",
-      "US": "$28.999"
+      "TR": "£23,499",
+      "EU": "€36,061",
+      "US": "$28,999"
     },
     "youtubeIds": [
       "iPKptrZ9BBw",
@@ -38,9 +38,31 @@
       "US": "$9,899"
     },
     "youtubeIds": [
-      "iPKptrZ9BBw",
-      "V-uZCL-dw-Q",
-      "WZp2S6X8aGM"
+      "-6q6Rnyt4Ng",
+      "b188KyY4GsE",
+      "ZRFC5QR9PdU"
+    ]
+  },
+  {
+    "id": "honda-cbr600rr",
+    "brand": "Honda",
+    "model": "CBR600RR",
+    "category": "SuperSport",
+    "engine": "599cc Inline Four-Cylinder Engine",
+    "maximumPower": "119bhp",
+    "maximumTorque": "63Nm",
+    "kerbWeight": "197kg",
+    "transmission": "Manual 6-speed",
+    "fuelCapacity": "18.1L",
+    "prices": {
+      "UK": "£11,999",
+      "EU": "€12,140",
+      "US": "$12,199"
+    },
+      "youtubeIds": [
+      "dQw4w9WgXcQ",
+      "eY52Zsg-KVI",
+      "3JZ_D3ELwOQ"
     ]
   }
 ]
